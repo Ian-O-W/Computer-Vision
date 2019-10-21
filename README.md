@@ -14,3 +14,6 @@ Estos tutoriales incluyen:
 
 # Style transfer
 Incluye una explicación del funcionamiento de Style transfer. Desarrollo de todo el código para poder ejecutarlo con ejemplos propios únicamente cambiando el path de las fotos.
+
+# ¿No cargan los notebooks desde github?
+Puedes copiar el enlace del notebook en https://nbviewer.jupyter.org/ y te lo abre sin problemas.
